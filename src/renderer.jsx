@@ -1,5 +1,6 @@
 import { createRoot } from 'react-dom/client';
 import Hello from './components/Hello';
+import './index.css';
 
 const App = () =>{
     return (
